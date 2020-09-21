@@ -1,0 +1,18 @@
+C:/Users/konda/source/repos/Unarn_Code/Unarn_Code/bin/Debug/Unarn_Code.exe
+C:/Users/konda/source/repos/Unarn_Code/Unarn_Code/bin/Debug/Unarn_Code.pdb
+C:/Users/konda/source/repos/Unarn_Code/Unarn_Code/obj/Debug/Unarn_Code.csprojAssemblyReference.cache
+C:/Users/konda/source/repos/Unarn_Code/Unarn_Code/obj/Debug/Unarn_Code.csproj.CoreCompileInputs.cache
+C:/Users/konda/source/repos/Unarn_Code/Unarn_Code/obj/Debug/Unarn_Code.exe
+C:/Users/konda/source/repos/Unarn_Code/Unarn_Code/obj/Debug/Unarn_Code.pdb
+H:/4 курс С#/KODIROVANIE/6 lab (binar, livenshtein, gamma, EvenRodeh)/Unarn_Code/Unarn_Code/bin/Debug/Unarn_Code.exe
+H:/4 курс С#/KODIROVANIE/6 lab (binar, livenshtein, gamma, EvenRodeh)/Unarn_Code/Unarn_Code/bin/Debug/Unarn_Code.pdb
+H:/4 курс С#/KODIROVANIE/6 lab (binar, livenshtein, gamma, EvenRodeh)/Unarn_Code/Unarn_Code/obj/Debug/Unarn_Code.csprojAssemblyReference.cache
+H:/4 курс С#/KODIROVANIE/6 lab (binar, livenshtein, gamma, EvenRodeh)/Unarn_Code/Unarn_Code/obj/Debug/Unarn_Code.csproj.CoreCompileInputs.cache
+H:/4 курс С#/KODIROVANIE/6 lab (binar, livenshtein, gamma, EvenRodeh)/Unarn_Code/Unarn_Code/obj/Debug/Unarn_Code.exe
+H:/4 курс С#/KODIROVANIE/6 lab (binar, livenshtein, gamma, EvenRodeh)/Unarn_Code/Unarn_Code/obj/Debug/Unarn_Code.pdb
+/Users/roman/Desktop/4 курс С#/4-Inf_IS/6 lab (binar, livenshtein, gamma, EvenRodeh)/Unarn_Code/Unarn_Code/bin/Debug/Unarn_Code.exe
+/Users/roman/Desktop/4 курс С#/4-Inf_IS/6 lab (binar, livenshtein, gamma, EvenRodeh)/Unarn_Code/Unarn_Code/bin/Debug/Unarn_Code.pdb
+/Users/roman/Desktop/4 курс С#/4-Inf_IS/6 lab (binar, livenshtein, gamma, EvenRodeh)/Unarn_Code/Unarn_Code/obj/Debug/Unarn_Code.csprojAssemblyReference.cache
+/Users/roman/Desktop/4 курс С#/4-Inf_IS/6 lab (binar, livenshtein, gamma, EvenRodeh)/Unarn_Code/Unarn_Code/obj/Debug/Unarn_Code.csproj.CoreCompileInputs.cache
+/Users/roman/Desktop/4 курс С#/4-Inf_IS/6 lab (binar, livenshtein, gamma, EvenRodeh)/Unarn_Code/Unarn_Code/obj/Debug/Unarn_Code.exe
+/Users/roman/Desktop/4 курс С#/4-Inf_IS/6 lab (binar, livenshtein, gamma, EvenRodeh)/Unarn_Code/Unarn_Code/obj/Debug/Unarn_Code.pdb

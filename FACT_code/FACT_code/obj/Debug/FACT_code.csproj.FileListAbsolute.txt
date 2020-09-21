@@ -1,0 +1,12 @@
+C:/Users/konda/source/repos/FACT_code/FACT_code/obj/Debug/FACT_code.csprojAssemblyReference.cache
+C:/Users/konda/source/repos/FACT_code/FACT_code/obj/Debug/FACT_code.csproj.CoreCompileInputs.cache
+C:/Users/konda/source/repos/FACT_code/FACT_code/bin/Debug/FACT_code.exe
+C:/Users/konda/source/repos/FACT_code/FACT_code/bin/Debug/FACT_code.pdb
+C:/Users/konda/source/repos/FACT_code/FACT_code/obj/Debug/FACT_code.exe
+C:/Users/konda/source/repos/FACT_code/FACT_code/obj/Debug/FACT_code.pdb
+/Users/roman/Desktop/4 курс С#/4-Inf_IS/FACT_code/FACT_code/bin/Debug/FACT_code.exe
+/Users/roman/Desktop/4 курс С#/4-Inf_IS/FACT_code/FACT_code/bin/Debug/FACT_code.pdb
+/Users/roman/Desktop/4 курс С#/4-Inf_IS/FACT_code/FACT_code/obj/Debug/FACT_code.csprojAssemblyReference.cache
+/Users/roman/Desktop/4 курс С#/4-Inf_IS/FACT_code/FACT_code/obj/Debug/FACT_code.csproj.CoreCompileInputs.cache
+/Users/roman/Desktop/4 курс С#/4-Inf_IS/FACT_code/FACT_code/obj/Debug/FACT_code.exe
+/Users/roman/Desktop/4 курс С#/4-Inf_IS/FACT_code/FACT_code/obj/Debug/FACT_code.pdb

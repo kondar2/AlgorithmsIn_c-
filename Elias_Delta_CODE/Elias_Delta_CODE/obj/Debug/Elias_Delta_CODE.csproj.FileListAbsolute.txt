@@ -1,0 +1,12 @@
+C:/Users/konda/source/repos/Elias_Delta_CODE/Elias_Delta_CODE/bin/Debug/Elias_Delta_CODE.exe
+C:/Users/konda/source/repos/Elias_Delta_CODE/Elias_Delta_CODE/bin/Debug/Elias_Delta_CODE.pdb
+C:/Users/konda/source/repos/Elias_Delta_CODE/Elias_Delta_CODE/obj/Debug/Elias_Delta_CODE.csprojAssemblyReference.cache
+C:/Users/konda/source/repos/Elias_Delta_CODE/Elias_Delta_CODE/obj/Debug/Elias_Delta_CODE.csproj.CoreCompileInputs.cache
+C:/Users/konda/source/repos/Elias_Delta_CODE/Elias_Delta_CODE/obj/Debug/Elias_Delta_CODE.exe
+C:/Users/konda/source/repos/Elias_Delta_CODE/Elias_Delta_CODE/obj/Debug/Elias_Delta_CODE.pdb
+/Users/roman/Desktop/4 курс С#/4-Inf_IS/11.12/Elias_Delta_CODE/Elias_Delta_CODE/bin/Debug/Elias_Delta_CODE.exe
+/Users/roman/Desktop/4 курс С#/4-Inf_IS/11.12/Elias_Delta_CODE/Elias_Delta_CODE/bin/Debug/Elias_Delta_CODE.pdb
+/Users/roman/Desktop/4 курс С#/4-Inf_IS/11.12/Elias_Delta_CODE/Elias_Delta_CODE/obj/Debug/Elias_Delta_CODE.csprojAssemblyReference.cache
+/Users/roman/Desktop/4 курс С#/4-Inf_IS/11.12/Elias_Delta_CODE/Elias_Delta_CODE/obj/Debug/Elias_Delta_CODE.csproj.CoreCompileInputs.cache
+/Users/roman/Desktop/4 курс С#/4-Inf_IS/11.12/Elias_Delta_CODE/Elias_Delta_CODE/obj/Debug/Elias_Delta_CODE.exe
+/Users/roman/Desktop/4 курс С#/4-Inf_IS/11.12/Elias_Delta_CODE/Elias_Delta_CODE/obj/Debug/Elias_Delta_CODE.pdb

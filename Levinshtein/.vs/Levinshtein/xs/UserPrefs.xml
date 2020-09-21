@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{A9FC56DB-43B9-46D5-B155-23347D0196D7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Levinshtein/Levenshtein.cs">
+    <Files>
+      <File FileName="Levinshtein/Program.cs" Line="24" Column="42" />
+      <File FileName="Levinshtein/Levenshtein.cs" Line="1" Column="1" />
+      <File FileName="Levinshtein/Tests.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Levinshtein" expanded="True">
+            <Node name="Levinshtein" expanded="True">
+              <Node name="Levenshtein.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Levinshtein PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

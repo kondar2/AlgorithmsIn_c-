@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{19477574-9652-4962-BD27-688C77C354FA}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Rice_Code/Rice.cs">
+    <Files>
+      <File FileName="Rice_Code/Rice.cs" Line="27" Column="56" />
+      <File FileName="Rice_Code/Program.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Rice_Code" expanded="True">
+            <Node name="Rice_Code" expanded="True">
+              <Node name="Rice.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Rice__Code PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

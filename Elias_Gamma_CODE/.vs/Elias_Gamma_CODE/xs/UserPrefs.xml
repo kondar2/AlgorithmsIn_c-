@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{2CD15204-D46D-456F-9C8C-2D1893D97F1F}|Default">
+  <MonoDevelop.Ide.ItemProperties.Elias__Gamma__CODE PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Elias_Gamma_CODE/Test.cs">
+    <Files>
+      <File FileName="Elias_Gamma_CODE/Elias_Gamma.cs" Line="37" Column="1" />
+      <File FileName="Elias_Gamma_CODE/Program.cs" Line="11" Column="10" />
+      <File FileName="Elias_Gamma_CODE/Test.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Elias_Gamma_CODE" expanded="True">
+            <Node name="Elias_Gamma_CODE" expanded="True">
+              <Node name="Test.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

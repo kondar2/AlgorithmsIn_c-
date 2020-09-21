@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{0A6441A2-5B03-496E-8550-174AB0EA2A6E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Naga_CODE/Program.cs">
+    <Files>
+      <File FileName="Naga_CODE/Nag_Dec.cs" Line="21" Column="51" />
+      <File FileName="Naga_CODE/Program.cs" Line="43" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Naga_CODE" expanded="True">
+            <Node name="Naga_CODE" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Naga__CODE PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

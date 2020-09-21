@@ -1,0 +1,12 @@
+C:/Users/konda/source/repos/Golomb_Code/Golomb_Code/bin/Debug/Golomb_Code.exe
+C:/Users/konda/source/repos/Golomb_Code/Golomb_Code/bin/Debug/Golomb_Code.pdb
+C:/Users/konda/source/repos/Golomb_Code/Golomb_Code/obj/Debug/Golomb_Code.csprojAssemblyReference.cache
+C:/Users/konda/source/repos/Golomb_Code/Golomb_Code/obj/Debug/Golomb_Code.csproj.CoreCompileInputs.cache
+C:/Users/konda/source/repos/Golomb_Code/Golomb_Code/obj/Debug/Golomb_Code.exe
+C:/Users/konda/source/repos/Golomb_Code/Golomb_Code/obj/Debug/Golomb_Code.pdb
+/Users/roman/Desktop/4 курс С#/4-Inf_IS/27.11/27.11/Golomb_Code/Golomb_Code/bin/Debug/Golomb_Code.exe
+/Users/roman/Desktop/4 курс С#/4-Inf_IS/27.11/27.11/Golomb_Code/Golomb_Code/bin/Debug/Golomb_Code.pdb
+/Users/roman/Desktop/4 курс С#/4-Inf_IS/27.11/27.11/Golomb_Code/Golomb_Code/obj/Debug/Golomb_Code.csprojAssemblyReference.cache
+/Users/roman/Desktop/4 курс С#/4-Inf_IS/27.11/27.11/Golomb_Code/Golomb_Code/obj/Debug/Golomb_Code.csproj.CoreCompileInputs.cache
+/Users/roman/Desktop/4 курс С#/4-Inf_IS/27.11/27.11/Golomb_Code/Golomb_Code/obj/Debug/Golomb_Code.exe
+/Users/roman/Desktop/4 курс С#/4-Inf_IS/27.11/27.11/Golomb_Code/Golomb_Code/obj/Debug/Golomb_Code.pdb

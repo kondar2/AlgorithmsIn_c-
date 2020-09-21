@@ -1,0 +1,12 @@
+C:/Users/konda/source/repos/Omega_Code_Elias/Omega_Code_Elias/bin/Debug/Omega_Code_Elias.exe
+C:/Users/konda/source/repos/Omega_Code_Elias/Omega_Code_Elias/bin/Debug/Omega_Code_Elias.pdb
+C:/Users/konda/source/repos/Omega_Code_Elias/Omega_Code_Elias/obj/Debug/Omega_Code_Elias.csprojAssemblyReference.cache
+C:/Users/konda/source/repos/Omega_Code_Elias/Omega_Code_Elias/obj/Debug/Omega_Code_Elias.csproj.CoreCompileInputs.cache
+C:/Users/konda/source/repos/Omega_Code_Elias/Omega_Code_Elias/obj/Debug/Omega_Code_Elias.exe
+C:/Users/konda/source/repos/Omega_Code_Elias/Omega_Code_Elias/obj/Debug/Omega_Code_Elias.pdb
+/Users/roman/Desktop/4 курс С#/4-Inf_IS/27.11/27.11/Omega_Code_Elias/Omega_Code_Elias/bin/Debug/Omega_Code_Elias.exe
+/Users/roman/Desktop/4 курс С#/4-Inf_IS/27.11/27.11/Omega_Code_Elias/Omega_Code_Elias/bin/Debug/Omega_Code_Elias.pdb
+/Users/roman/Desktop/4 курс С#/4-Inf_IS/27.11/27.11/Omega_Code_Elias/Omega_Code_Elias/obj/Debug/Omega_Code_Elias.csprojAssemblyReference.cache
+/Users/roman/Desktop/4 курс С#/4-Inf_IS/27.11/27.11/Omega_Code_Elias/Omega_Code_Elias/obj/Debug/Omega_Code_Elias.csproj.CoreCompileInputs.cache
+/Users/roman/Desktop/4 курс С#/4-Inf_IS/27.11/27.11/Omega_Code_Elias/Omega_Code_Elias/obj/Debug/Omega_Code_Elias.exe
+/Users/roman/Desktop/4 курс С#/4-Inf_IS/27.11/27.11/Omega_Code_Elias/Omega_Code_Elias/obj/Debug/Omega_Code_Elias.pdb

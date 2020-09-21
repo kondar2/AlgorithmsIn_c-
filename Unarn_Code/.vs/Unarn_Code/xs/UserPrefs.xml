@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{35C7C87F-1337-4806-8E1D-7700E492D358}|Default">
+  <MonoDevelop.Ide.ItemProperties.Unarn__Code PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Unarn_Code/Unar_Dec.cs">
+    <Files>
+      <File FileName="Unarn_Code/Program.cs" Line="12" Column="52" />
+      <File FileName="Unarn_Code/Unar_Dec.cs" Line="19" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Unarn_Code" expanded="True">
+            <Node name="Unarn_Code" expanded="True">
+              <Node name="Unar_Dec.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,12 @@
+C:/Users/konda/source/repos/Naga_CODE/Naga_CODE/bin/Debug/Naga_CODE.exe
+C:/Users/konda/source/repos/Naga_CODE/Naga_CODE/bin/Debug/Naga_CODE.pdb
+C:/Users/konda/source/repos/Naga_CODE/Naga_CODE/obj/Debug/Naga_CODE.csprojAssemblyReference.cache
+C:/Users/konda/source/repos/Naga_CODE/Naga_CODE/obj/Debug/Naga_CODE.csproj.CoreCompileInputs.cache
+C:/Users/konda/source/repos/Naga_CODE/Naga_CODE/obj/Debug/Naga_CODE.exe
+C:/Users/konda/source/repos/Naga_CODE/Naga_CODE/obj/Debug/Naga_CODE.pdb
+/Users/roman/Desktop/4 курс С#/4-Inf_IS/Naga_CODE/Naga_CODE/bin/Debug/Naga_CODE.exe
+/Users/roman/Desktop/4 курс С#/4-Inf_IS/Naga_CODE/Naga_CODE/bin/Debug/Naga_CODE.pdb
+/Users/roman/Desktop/4 курс С#/4-Inf_IS/Naga_CODE/Naga_CODE/obj/Debug/Naga_CODE.csprojAssemblyReference.cache
+/Users/roman/Desktop/4 курс С#/4-Inf_IS/Naga_CODE/Naga_CODE/obj/Debug/Naga_CODE.csproj.CoreCompileInputs.cache
+/Users/roman/Desktop/4 курс С#/4-Inf_IS/Naga_CODE/Naga_CODE/obj/Debug/Naga_CODE.exe
+/Users/roman/Desktop/4 курс С#/4-Inf_IS/Naga_CODE/Naga_CODE/obj/Debug/Naga_CODE.pdb

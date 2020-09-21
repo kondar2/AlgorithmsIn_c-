@@ -1,0 +1,12 @@
+C:/Users/konda/source/repos/Gilb_More/Gilb_More/bin/Debug/Gilb_More.exe
+C:/Users/konda/source/repos/Gilb_More/Gilb_More/bin/Debug/Gilb_More.pdb
+C:/Users/konda/source/repos/Gilb_More/Gilb_More/obj/Debug/Gilb_More.csprojAssemblyReference.cache
+C:/Users/konda/source/repos/Gilb_More/Gilb_More/obj/Debug/Gilb_More.csproj.CoreCompileInputs.cache
+C:/Users/konda/source/repos/Gilb_More/Gilb_More/obj/Debug/Gilb_More.exe
+C:/Users/konda/source/repos/Gilb_More/Gilb_More/obj/Debug/Gilb_More.pdb
+/Users/roman/Desktop/4 курс С#/4-Inf_IS/Gilb_More/Gilb_More/bin/Debug/Gilb_More.exe
+/Users/roman/Desktop/4 курс С#/4-Inf_IS/Gilb_More/Gilb_More/bin/Debug/Gilb_More.pdb
+/Users/roman/Desktop/4 курс С#/4-Inf_IS/Gilb_More/Gilb_More/obj/Debug/Gilb_More.csprojAssemblyReference.cache
+/Users/roman/Desktop/4 курс С#/4-Inf_IS/Gilb_More/Gilb_More/obj/Debug/Gilb_More.csproj.CoreCompileInputs.cache
+/Users/roman/Desktop/4 курс С#/4-Inf_IS/Gilb_More/Gilb_More/obj/Debug/Gilb_More.exe
+/Users/roman/Desktop/4 курс С#/4-Inf_IS/Gilb_More/Gilb_More/obj/Debug/Gilb_More.pdb

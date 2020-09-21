@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{C4E223D0-2B7A-465C-893E-11732D3F5D15}|Default">
+  <MonoDevelop.Ide.ItemProperties.Gilb__More PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Gilb_More/Program.cs">
+    <Files>
+      <File FileName="Gilb_More/Gilb_Moore.cs" Line="18" Column="14" />
+      <File FileName="Gilb_More/Tests.cs" />
+      <File FileName="Gilb_More/Program.cs" Line="13" Column="13" />
+      <File FileName="Gilb_More/Element.cs" Line="18" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Gilb_More" expanded="True">
+            <Node name="Gilb_More" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

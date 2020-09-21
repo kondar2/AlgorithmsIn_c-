@@ -1,0 +1,12 @@
+C:/Users/konda/source/repos/Levinshtein/Levinshtein/obj/Debug/Levinshtein.csprojAssemblyReference.cache
+C:/Users/konda/source/repos/Levinshtein/Levinshtein/obj/Debug/Levinshtein.csproj.CoreCompileInputs.cache
+C:/Users/konda/source/repos/Levinshtein/Levinshtein/bin/Debug/Levinshtein.exe
+C:/Users/konda/source/repos/Levinshtein/Levinshtein/bin/Debug/Levinshtein.pdb
+C:/Users/konda/source/repos/Levinshtein/Levinshtein/obj/Debug/Levinshtein.exe
+C:/Users/konda/source/repos/Levinshtein/Levinshtein/obj/Debug/Levinshtein.pdb
+/Users/roman/Desktop/4 курс С#/4-Inf_IS/6 lab (binar, livenshtein, gamma, EvenRodeh)/Levinshtein/Levinshtein/bin/Debug/Levinshtein.exe
+/Users/roman/Desktop/4 курс С#/4-Inf_IS/6 lab (binar, livenshtein, gamma, EvenRodeh)/Levinshtein/Levinshtein/bin/Debug/Levinshtein.pdb
+/Users/roman/Desktop/4 курс С#/4-Inf_IS/6 lab (binar, livenshtein, gamma, EvenRodeh)/Levinshtein/Levinshtein/obj/Debug/Levinshtein.csprojAssemblyReference.cache
+/Users/roman/Desktop/4 курс С#/4-Inf_IS/6 lab (binar, livenshtein, gamma, EvenRodeh)/Levinshtein/Levinshtein/obj/Debug/Levinshtein.csproj.CoreCompileInputs.cache
+/Users/roman/Desktop/4 курс С#/4-Inf_IS/6 lab (binar, livenshtein, gamma, EvenRodeh)/Levinshtein/Levinshtein/obj/Debug/Levinshtein.exe
+/Users/roman/Desktop/4 курс С#/4-Inf_IS/6 lab (binar, livenshtein, gamma, EvenRodeh)/Levinshtein/Levinshtein/obj/Debug/Levinshtein.pdb

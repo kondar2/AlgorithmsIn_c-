@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibon_Cod", "Fibon_Cod\Fibon_Cod.csproj", "{65258BF9-919B-44FF-BF00-1A91CD8AE120}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65258BF9-919B-44FF-BF00-1A91CD8AE120}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65258BF9-919B-44FF-BF00-1A91CD8AE120}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65258BF9-919B-44FF-BF00-1A91CD8AE120}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65258BF9-919B-44FF-BF00-1A91CD8AE120}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7536EA01-5CC3-448E-8B1E-3E1E0DE7C495}
+	EndGlobalSection
+EndGlobal

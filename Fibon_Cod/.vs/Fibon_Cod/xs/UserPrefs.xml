@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{65258BF9-919B-44FF-BF00-1A91CD8AE120}|Default">
+  <MonoDevelop.Ide.ItemProperties.Fibon__Cod PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Fibon_Cod/Program.cs">
+    <Files>
+      <File FileName="Fibon_Cod/Fibon_Base.cs" Line="1" Column="1" />
+      <File FileName="Fibon_Cod/Program.cs" Line="14" Column="55" />
+      <File FileName="Fibon_Cod/ConverterDec_Fib.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Fibon_Cod" expanded="True">
+            <Node name="Fibon_Cod" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

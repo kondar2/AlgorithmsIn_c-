@@ -1,0 +1,12 @@
+C:/Users/konda/source/repos/Fibon_Cod/Fibon_Cod/bin/Debug/Fibon_Cod.exe
+C:/Users/konda/source/repos/Fibon_Cod/Fibon_Cod/bin/Debug/Fibon_Cod.pdb
+C:/Users/konda/source/repos/Fibon_Cod/Fibon_Cod/obj/Debug/Fibon_Cod.csprojAssemblyReference.cache
+C:/Users/konda/source/repos/Fibon_Cod/Fibon_Cod/obj/Debug/Fibon_Cod.csproj.CoreCompileInputs.cache
+C:/Users/konda/source/repos/Fibon_Cod/Fibon_Cod/obj/Debug/Fibon_Cod.exe
+C:/Users/konda/source/repos/Fibon_Cod/Fibon_Cod/obj/Debug/Fibon_Cod.pdb
+/Users/roman/Desktop/4 курс С#/4-Inf_IS/Fibon_Cod/Fibon_Cod/bin/Debug/Fibon_Cod.exe
+/Users/roman/Desktop/4 курс С#/4-Inf_IS/Fibon_Cod/Fibon_Cod/bin/Debug/Fibon_Cod.pdb
+/Users/roman/Desktop/4 курс С#/4-Inf_IS/Fibon_Cod/Fibon_Cod/obj/Debug/Fibon_Cod.csprojAssemblyReference.cache
+/Users/roman/Desktop/4 курс С#/4-Inf_IS/Fibon_Cod/Fibon_Cod/obj/Debug/Fibon_Cod.csproj.CoreCompileInputs.cache
+/Users/roman/Desktop/4 курс С#/4-Inf_IS/Fibon_Cod/Fibon_Cod/obj/Debug/Fibon_Cod.exe
+/Users/roman/Desktop/4 курс С#/4-Inf_IS/Fibon_Cod/Fibon_Cod/obj/Debug/Fibon_Cod.pdb

@@ -1,0 +1,6 @@
+C:\Users\konda\source\repos\Gamma_Livenshtein\Gamma_Livenshtein\bin\Debug\Gamma_Livenshtein.exe
+C:\Users\konda\source\repos\Gamma_Livenshtein\Gamma_Livenshtein\bin\Debug\Gamma_Livenshtein.pdb
+C:\Users\konda\source\repos\Gamma_Livenshtein\Gamma_Livenshtein\obj\Debug\Gamma_Livenshtein.csprojAssemblyReference.cache
+C:\Users\konda\source\repos\Gamma_Livenshtein\Gamma_Livenshtein\obj\Debug\Gamma_Livenshtein.csproj.CoreCompileInputs.cache
+C:\Users\konda\source\repos\Gamma_Livenshtein\Gamma_Livenshtein\obj\Debug\Gamma_Livenshtein.exe
+C:\Users\konda\source\repos\Gamma_Livenshtein\Gamma_Livenshtein\obj\Debug\Gamma_Livenshtein.pdb

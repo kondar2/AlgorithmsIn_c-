@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{41D404EA-9962-4763-8394-4E6C4760198F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Code_Shenon_Fano/Program.cs">
+    <Files>
+      <File FileName="Code_Shenon_Fano/Shenon_Fano.cs" Line="42" Column="9" />
+      <File FileName="Code_Shenon_Fano/Tests.cs" Line="34" Column="24" />
+      <File FileName="Code_Shenon_Fano/Program.cs" Line="18" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Code_Shenon_Fano" expanded="True">
+            <Node name="Code_Shenon_Fano" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Code__Shenon__Fano PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

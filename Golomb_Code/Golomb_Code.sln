@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Golomb_Code", "Golomb_Code\Golomb_Code.csproj", "{E02EAD8B-DF52-4A79-94EE-FBACFEF9F44D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E02EAD8B-DF52-4A79-94EE-FBACFEF9F44D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E02EAD8B-DF52-4A79-94EE-FBACFEF9F44D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E02EAD8B-DF52-4A79-94EE-FBACFEF9F44D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E02EAD8B-DF52-4A79-94EE-FBACFEF9F44D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5013C16C-136C-4694-A8CB-D7054BBF0882}
+	EndGlobalSection
+EndGlobal

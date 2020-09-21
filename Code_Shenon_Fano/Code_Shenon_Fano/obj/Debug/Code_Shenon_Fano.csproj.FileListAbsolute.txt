@@ -1,0 +1,18 @@
+C:/Users/konda/source/repos/Code_Shenon_Fano/Code_Shenon_Fano/bin/Debug/Code_Shenon_Fano.exe
+C:/Users/konda/source/repos/Code_Shenon_Fano/Code_Shenon_Fano/bin/Debug/Code_Shenon_Fano.pdb
+C:/Users/konda/source/repos/Code_Shenon_Fano/Code_Shenon_Fano/obj/Debug/Code_Shenon_Fano.csprojAssemblyReference.cache
+C:/Users/konda/source/repos/Code_Shenon_Fano/Code_Shenon_Fano/obj/Debug/Code_Shenon_Fano.csproj.CoreCompileInputs.cache
+C:/Users/konda/source/repos/Code_Shenon_Fano/Code_Shenon_Fano/obj/Debug/Code_Shenon_Fano.exe
+C:/Users/konda/source/repos/Code_Shenon_Fano/Code_Shenon_Fano/obj/Debug/Code_Shenon_Fano.pdb
+H:/4 курс С#/KODIROVANIE/Code_Shenon_Fano/Code_Shenon_Fano/bin/Debug/Code_Shenon_Fano.exe
+H:/4 курс С#/KODIROVANIE/Code_Shenon_Fano/Code_Shenon_Fano/bin/Debug/Code_Shenon_Fano.pdb
+H:/4 курс С#/KODIROVANIE/Code_Shenon_Fano/Code_Shenon_Fano/obj/Debug/Code_Shenon_Fano.csprojAssemblyReference.cache
+H:/4 курс С#/KODIROVANIE/Code_Shenon_Fano/Code_Shenon_Fano/obj/Debug/Code_Shenon_Fano.csproj.CoreCompileInputs.cache
+H:/4 курс С#/KODIROVANIE/Code_Shenon_Fano/Code_Shenon_Fano/obj/Debug/Code_Shenon_Fano.exe
+H:/4 курс С#/KODIROVANIE/Code_Shenon_Fano/Code_Shenon_Fano/obj/Debug/Code_Shenon_Fano.pdb
+/Users/roman/Desktop/4 курс С#/4-Inf_IS/Code_Shenon_Fano/Code_Shenon_Fano/bin/Debug/Code_Shenon_Fano.exe
+/Users/roman/Desktop/4 курс С#/4-Inf_IS/Code_Shenon_Fano/Code_Shenon_Fano/bin/Debug/Code_Shenon_Fano.pdb
+/Users/roman/Desktop/4 курс С#/4-Inf_IS/Code_Shenon_Fano/Code_Shenon_Fano/obj/Debug/Code_Shenon_Fano.csprojAssemblyReference.cache
+/Users/roman/Desktop/4 курс С#/4-Inf_IS/Code_Shenon_Fano/Code_Shenon_Fano/obj/Debug/Code_Shenon_Fano.csproj.CoreCompileInputs.cache
+/Users/roman/Desktop/4 курс С#/4-Inf_IS/Code_Shenon_Fano/Code_Shenon_Fano/obj/Debug/Code_Shenon_Fano.exe
+/Users/roman/Desktop/4 курс С#/4-Inf_IS/Code_Shenon_Fano/Code_Shenon_Fano/obj/Debug/Code_Shenon_Fano.pdb

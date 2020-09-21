@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{C92F4307-90E4-425D-B675-A9CCE5C76767}|Default">
+  <MonoDevelop.Ide.ItemProperties.Gamma__Livenshtein PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Gamma_Livenshtein/GammaCodLev.cs">
+    <Files>
+      <File FileName="Gamma_Livenshtein/GammaCodLev.cs" Line="38" Column="40" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Gamma_Livenshtein" expanded="True">
+            <Node name="Gamma_Livenshtein" expanded="True">
+              <Node name="GammaCodLev.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

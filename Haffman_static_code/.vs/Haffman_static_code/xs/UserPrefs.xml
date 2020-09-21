@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{6C426932-315A-49E5-A0DC-CC93A233C28B}|Default">
+  <MonoDevelop.Ide.ItemProperties.Haffman__static__code PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Haffman_static_code/Program.cs">
+    <Files>
+      <File FileName="Haffman_static_code/Node.cs" Line="67" Column="1" />
+      <File FileName="Haffman_static_code/Program.cs" Line="1" Column="1" />
+      <File FileName="Haffman_static_code/Test.cs" />
+      <File FileName="Haffman_static_code/HuffmanCode.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Haffman_static_code" expanded="True">
+            <Node name="Haffman_static_code" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

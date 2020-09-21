@@ -1,0 +1,6 @@
+C:\Users\konda\source\repos\Rice_Code\Rice_Code\obj\Debug\Rice_Code.csprojAssemblyReference.cache
+C:\Users\konda\source\repos\Rice_Code\Rice_Code\obj\Debug\Rice_Code.csproj.CoreCompileInputs.cache
+C:\Users\konda\source\repos\Rice_Code\Rice_Code\bin\Debug\Rice_Code.exe
+C:\Users\konda\source\repos\Rice_Code\Rice_Code\bin\Debug\Rice_Code.pdb
+C:\Users\konda\source\repos\Rice_Code\Rice_Code\obj\Debug\Rice_Code.exe
+C:\Users\konda\source\repos\Rice_Code\Rice_Code\obj\Debug\Rice_Code.pdb

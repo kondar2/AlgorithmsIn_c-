@@ -1,0 +1,16 @@
+C:/Users/konda/source/repos/Haffman_static_code/Haffman_static_code/bin/Debug/Haffman_static_code.exe
+C:/Users/konda/source/repos/Haffman_static_code/Haffman_static_code/bin/Debug/Haffman_static_code.pdb
+C:/Users/konda/source/repos/Haffman_static_code/Haffman_static_code/obj/Debug/Haffman_static_code.csprojAssemblyReference.cache
+C:/Users/konda/source/repos/Haffman_static_code/Haffman_static_code/obj/Debug/Haffman_static_code.csproj.CoreCompileInputs.cache
+C:/Users/konda/source/repos/Haffman_static_code/Haffman_static_code/obj/Debug/Haffman_static_code.exe
+C:/Users/konda/source/repos/Haffman_static_code/Haffman_static_code/obj/Debug/Haffman_static_code.pdb
+H:/4 курс С#/KODIROVANIE/Haffman_static_code/Haffman_static_code/bin/Debug/Haffman_static_code.exe
+H:/4 курс С#/KODIROVANIE/Haffman_static_code/Haffman_static_code/bin/Debug/Haffman_static_code.pdb
+H:/4 курс С#/KODIROVANIE/Haffman_static_code/Haffman_static_code/obj/Debug/Haffman_static_code.csprojAssemblyReference.cache
+H:/4 курс С#/KODIROVANIE/Haffman_static_code/Haffman_static_code/obj/Debug/Haffman_static_code.csproj.CoreCompileInputs.cache
+H:/4 курс С#/KODIROVANIE/Haffman_static_code/Haffman_static_code/obj/Debug/Haffman_static_code.exe
+H:/4 курс С#/KODIROVANIE/Haffman_static_code/Haffman_static_code/obj/Debug/Haffman_static_code.pdb
+/Users/roman/Desktop/4 курс С#/4-Inf_IS/Haffman_static_code/Haffman_static_code/obj/Debug/Haffman_static_code.csprojAssemblyReference.cache
+/Users/roman/Desktop/4 курс С#/4-Inf_IS/Haffman_static_code/Haffman_static_code/obj/Debug/Haffman_static_code.csproj.CoreCompileInputs.cache
+/Users/roman/Desktop/4 курс С#/4-Inf_IS/Haffman_static_code/Haffman_static_code/obj/Debug/Haffman_static_code.exe
+/Users/roman/Desktop/4 курс С#/4-Inf_IS/Haffman_static_code/Haffman_static_code/obj/Debug/Haffman_static_code.pdb
